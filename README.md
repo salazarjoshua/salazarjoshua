@@ -1,4 +1,4 @@
-<img src="https://joshuasalazar.me/assets/email-logo.png" width="64" height="64" alt="Joshua Salazar logo"/>
+<img src="https://avatars.githubusercontent.com/u/68525783" width="64" height="64" alt="Joshua Salazar logo"/>
 
 ### Hello, I'm Joshua 
 I'm a front-end developer from Philippines who loves to create fun things with code, drink iced coffee, and listen to K-pop.
