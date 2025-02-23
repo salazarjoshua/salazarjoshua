@@ -5,7 +5,6 @@ I'm a front-end developer from Philippines who loves to create fun things with c
 
 ### Elsewhere
 - Spam me at [**hello@joshuasalazar.me**](mailto:hello@joshuasalazar.me)
-- I post random pix on  [**Instagram**](https://www.instagram.com/youn66odzilla/)
-- I talk a lot on [**Twitter**](https://www.twitter.com/youn66odzilla/)
+- I post random pix on  [**Instagram**](https://www.instagram.com/tiktilaokie/)
 - I try to be professional on [**LinkedIn**](https://www.linkedin.com/in/salazar-joshua)
 - I listen to K-pop on [**Spotify**](https://open.spotify.com/user/salazar.joshua)
